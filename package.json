@@ -2,7 +2,7 @@
   "name": "alt-mode",
   "displayName": "Alt-Mode",
   "description": "VS Code keybindings based on vim.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": {
     "name": "Akshay Ganeshen",
     "email": "me@aganeshen.com",
