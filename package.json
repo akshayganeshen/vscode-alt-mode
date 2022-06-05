@@ -307,5 +307,9 @@
         "command": "workbench.action.navigateForward"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akshayganeshen/vscode-alt-mode.git"
   }
 }
