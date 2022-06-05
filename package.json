@@ -2,7 +2,7 @@
   "name": "alt-mode",
   "displayName": "Alt-Mode",
   "description": "VS Code keybindings based on vim.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Akshay Ganeshen",
     "email": "me@aganeshen.com",
@@ -56,7 +56,6 @@
         "command": "cursorEnd",
         "when": "textInputFocus"
       },
-
       {
         "key": "alt+w",
         "command": "cursorWordStartRight",
@@ -77,7 +76,6 @@
         "command": "cursorWordPartRight",
         "when": "textInputFocus"
       },
-
       {
         "key": "cmd+m",
         "command": "editor.action.jumpToBracket",
@@ -88,7 +86,6 @@
         "command": "editor.action.jumpToBracket",
         "when": "editorTextFocus"
       },
-
       {
         "key": "alt+[",
         "command": "cursorMove",
@@ -105,7 +102,6 @@
         },
         "when": "textInputFocus"
       },
-
       {
         "key": "alt+down",
         "command": "cursorPageDown",
@@ -126,7 +122,6 @@
         "command": "cursorPageUp",
         "when": "textInputFocus"
       },
-
       {
         "key": "alt+n",
         "command": "editor.action.nextMatchFindAction",
@@ -142,7 +137,6 @@
         "command": "editor.action.previousMatchFindAction",
         "when": "editorFocus"
       },
-
       {
         "key": "shift+alt+j",
         "command": "cursorDownSelect",
@@ -173,7 +167,6 @@
         "command": "cursorEndSelect",
         "when": "textInputFocus"
       },
-
       {
         "key": "shift+alt+w",
         "command": "cursorWordStartRightSelect",
@@ -194,7 +187,6 @@
         "command": "cursorWordPartRightSelect",
         "when": "textInputFocus"
       },
-
       {
         "key": "shift+alt+[",
         "command": "cursorMove",
@@ -213,7 +205,6 @@
         },
         "when": "textInputFocus"
       },
-
       {
         "key": "alt+s alt+m",
         "command": "editor.action.selectToBracket",
@@ -239,7 +230,6 @@
         "command": "expandLineSelection",
         "when": "editorFocus"
       },
-
       {
         "key": "cmd+alt+j",
         "command": "editor.action.insertCursorBelow",
@@ -255,7 +245,6 @@
         "command": "removeSecondaryCursors",
         "when": "editorHasMultipleSelections && textInputFocus"
       },
-
       {
         "key": "alt+v alt+m",
         "command": "editor.action.toggleMinimap"
@@ -288,12 +277,10 @@
         "key": "alt+v alt+d",
         "command": "workbench.action.toggleZenMode"
       },
-
       {
         "key": "alt+v alt+f",
         "command": "workbench.action.toggleFullScreen"
       },
-
       {
         "key": "alt+,",
         "command": "workbench.action.navigateBack"
