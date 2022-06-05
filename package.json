@@ -1,0 +1,15 @@
+{
+  "name": "alt-mode",
+  "displayName": "Alt-Mode",
+  "description": "VS Code keybindings based on vim.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Keymaps"
+  ],
+  "contributes": {
+    "keybindings": []
+  }
+}
