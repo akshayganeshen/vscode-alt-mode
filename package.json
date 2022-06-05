@@ -258,49 +258,40 @@
 
       {
         "key": "alt+v alt+m",
-        "command": "editor.action.toggleMinimap",
-        "when": "editorFocus"
+        "command": "editor.action.toggleMinimap"
       },
       {
         "key": "alt+v alt+t",
-        "command": "workbench.action.toggleTabsVisibility",
-        "when": "editorFocus"
+        "command": "workbench.action.toggleTabsVisibility"
       },
       {
         "key": "alt+v alt+c",
-        "command": "workbench.action.toggleStatusbarVisibility",
-        "when": "editorFocus"
+        "command": "workbench.action.toggleStatusbarVisibility"
       },
       {
         "key": "alt+v alt+s",
-        "command": "workbench.action.toggleSidebarVisibility",
-        "when": "editorFocus"
+        "command": "workbench.action.toggleSidebarVisibility"
       },
       {
         "key": "alt+v alt+a",
-        "command": "workbench.action.toggleActivityBarVisibility",
-        "when": "editorFocus"
+        "command": "workbench.action.toggleActivityBarVisibility"
       },
       {
         "key": "alt+v alt+e",
-        "command": "workbench.action.togglePanel",
-        "when": "editorFocus"
+        "command": "workbench.action.togglePanel"
       },
       {
         "key": "alt+v alt+i",
-        "command": "workbench.action.toggleZenMode",
-        "when": "editorFocus"
+        "command": "workbench.action.toggleZenMode"
       },
       {
         "key": "alt+v alt+d",
-        "command": "workbench.action.toggleZenMode",
-        "when": "editorFocus"
+        "command": "workbench.action.toggleZenMode"
       },
 
       {
         "key": "alt+v alt+f",
-        "command": "workbench.action.toggleFullScreen",
-        "when": "editorFocus"
+        "command": "workbench.action.toggleFullScreen"
       },
 
       {
